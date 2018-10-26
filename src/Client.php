@@ -88,7 +88,6 @@ class Client
      */
     private $extendedCommands = [
         'AUTH PLAIN LOGIN',
-        'STARTTLS',
         'HELP',
     ];
 
